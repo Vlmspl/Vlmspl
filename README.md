@@ -2,7 +2,8 @@
 
 Also known as VladITandLPlayer, Vastless, Vlmspl
 
-I am a student🎓 of IT Step Academy on 5th course
+I am a graduate of IT Step small academy, 
+currently on 1st course of IT Step scholar-student programmer course
 
 I find myself the most in software/game development and also Mods.
 
