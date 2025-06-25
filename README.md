@@ -1,6 +1,6 @@
-![Vlmspl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vlmspl&show_icons=true&theme=radical)
+![Vastless's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vlmspl&show_icons=true&theme=radical)
 
-Also known as VladITandLPlayer
+Also known as VladITandLPlayer, Vastless, Vlmspl
 
 I am a student🎓 of IT Step Academy on 5th course
 
